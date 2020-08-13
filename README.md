@@ -4,7 +4,7 @@
 
   + [Screen Brightness Settings Siri Commands][cmd_screen]
 
-## Screen Brightness Settings Siri Commands
+### Screen Brightness Settings Siri Commands
 
 |  **Siri Command** | Response |
 | :--- | :--- |
