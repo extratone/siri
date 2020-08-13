@@ -1,54 +1,40 @@
-# `Siri Voice Commands`
-Working towards a more complete list of Siri voice commands
-
-## Overview
-
-+ Siri commands are tested in iOS 13.6.1 or later.
-+ Siri commands are tested in iPadOS 13.6.1 or later.
-+ Works well with AirPods or hands-free device.
-+ Knowing more Siri commands will allow you to do more in hands-free mode.
-+ Hands-free "hey siri" wake word helps you avoid contact with germs on surfaces.
-+ Some commands require pre-installed apps developed by Apple.
-+ Silent Mode switch must be off for audio responses.
-+ Audio responses are often prompted by commands that involve lists.
-+ Requires Internet connection.
-
 # Table of Contents
 
-+ [Wallet Siri Commands][page_wallet_siri_commands]
-+ [Web and YouTube Search Siri Commands][page_web_and_youtube_search_siri_commands]
-+ [More Phone and Notifications Siri Commands][page_more_phone_and_notifications_siri_commands]
-+ [Contacts Siri Commands][page_contacts_siri_commands]
-+ [Affective (Fun) Siri Commands][page_affective__fun__siri_commands]
-+ [Notes Siri Commands][page_notes_siri_commands]
-+ [Translation Siri Commands][page_translation_siri_commands]
-+ [Dictionary, Reference and Trivia Siri Commands][page_dictionary__reference_and_trivia_siri_commands]
-+ [Science Reference Siri Commands][page_science_reference_siri_commands]
-+ [Geography Siri Commands][page_geography_siri_commands]
-+ [Clock App Siri Commands][page_clock_app_siri_commands]
-  + [Clock Time Siri Commands][page_clock_time_siri_commands]
-  + [Timer Siri Commands][page_timer_siri_commands]
-  + [Stopwatch Siri Commands][page_stopwatch_siri_commands]
-  + [Alarm Siri Commands][page_alarm_siri_commands]
-+ [Podcast Siri Commands][page_podcast_siri_commands]
-+ [Calendar Siri Commands][page_calendar_siri_commands]
-+ [Maps and Geolocation Siri Commands][page_maps_and_geolocation_siri_commands]
-+ [Find My Siri Commands][page_find_my_siri_commands]
-+ [Reminder Siri Commands][page_reminder_siri_commands]
-+ [Weather Siri Commands][page_weather_siri_commands]
-+ [Live Radio Streaming Siri Commands][page_live_radio_streaming_siri_commands]
-+ [Music and Music Streaming Siri Commands][page_music_and_music_streaming_siri_commands]
-+ [Hourly News Update Siri Commands][page_hourly_news_update_siri_commands]
-+ [Finance Siri Commands][page_finance_siri_commands]
-+ [Useful Math Siri Commands][page_useful_math_siri_commands]
-+ [General Math Siri Commands][page_general_math_siri_commands]
-+ [Money Math Siri Commands][page_money_math_siri_commands]
-+ [Local and Navigtion Siri Commands][page_local_and_navigtion_siri_commands]
-+ [Flashlight Siri Commands][page_flashlight_siri_commands]
-+ [Audio Volume Settings Siri Commands][page_audio_volume_settings_siri_commands]
-+ [Screen Brightness Settings Siri Commands][page_screen_brightness_settings_siri_commands]
-+ [General Siri Commands][page_general_siri_commands]
-+ [Sports Siri Commands][page_sports_siri_commands]
+  + [Wallet Siri Commands][page_wallet_siri_commands]
+  + [Web and YouTube Search Siri Commands][page_web_and_youtube_search_siri_commands]
+  + [More Phone and Notifications Siri Commands][page_more_phone_and_notifications_siri_commands]
+  + [Contacts Siri Commands][page_contacts_siri_commands]
+  + [Affective (Fun) Siri Commands][page_affective__fun__siri_commands]
+  + [Notes Siri Commands][page_notes_siri_commands]
+  + [Translation Siri Commands][page_translation_siri_commands]
+  + [Dictionary, Reference and Trivia Siri Commands][page_dictionary__reference_and_trivia_siri_commands]
+  + [Science Reference Siri Commands][page_science_reference_siri_commands]
+  + [Geography Siri Commands][page_geography_siri_commands]
+  + [Clock App Siri Commands][page_clock_app_siri_commands]
+    + [Clock Time Siri Commands][page_clock_time_siri_commands]
+    + [Timer Siri Commands][page_timer_siri_commands]
+    + [Stopwatch Siri Commands][page_stopwatch_siri_commands]
+    + [Alarm Siri Commands][page_alarm_siri_commands]
+  + [Podcast Siri Commands][page_podcast_siri_commands]
+  + [Calendar Siri Commands][page_calendar_siri_commands]
+  + [Maps and Geolocation Siri Commands][page_maps_and_geolocation_siri_commands]
+  + [Find My Siri Commands][page_find_my_siri_commands]
+  + [Reminder Siri Commands][page_reminder_siri_commands]
+  + [Weather Siri Commands][page_weather_siri_commands]
+  + [Live Radio Streaming Siri Commands][page_live_radio_streaming_siri_commands]
+  + [Music and Music Streaming Siri Commands][page_music_and_music_streaming_siri_commands]
+  + [Hourly News Update Siri Commands][page_hourly_news_update_siri_commands]
+  + [Finance Siri Commands][page_finance_siri_commands]
+  + [Useful Math Siri Commands][page_useful_math_siri_commands]
+  + [General Math Siri Commands][page_general_math_siri_commands]
+  + [Money Math Siri Commands][page_money_math_siri_commands]
+  + [Local and Navigtion Siri Commands][page_local_and_navigtion_siri_commands]
+  + [Flashlight Siri Commands][page_flashlight_siri_commands]
+  + [Audio Volume Settings Siri Commands][page_audio_volume_settings_siri_commands]
+  + [Screen Brightness Settings Siri Commands][page_screen_brightness_settings_siri_commands]
+  + [General Siri Commands][page_general_siri_commands]
+  + [Sports Siri Commands][page_sports_siri_commands]
+
 
 ## Wallet Siri Commands
 
@@ -263,6 +249,7 @@ Working towards a more complete list of Siri voice commands
 > **NOTE:** This Markdown table was generated by [MarkdownTableMaker for Google Sheets][mtm].
 
 
+
 ### Timer Siri Commands
 
 |  **Siri Command** | Response |
@@ -273,6 +260,18 @@ Working towards a more complete list of Siri voice commands
 |  **Pause timer.** | Pauses countdown. |
 |  **Resume timer.** | Resumes countdown. |
 |  **Reset timer.** | Pauses countdown and resets to start time. |
+
+> **NOTE:** This Markdown table was generated by [MarkdownTableMaker for Google Sheets][mtm].
+
+
+
+### Stopwatch Siri Commands
+
+  + Works on iOS or watchOS.
+
+|  **Siri Command** | Response |
+| :--- | :--- |
+|  **Show stopwatch.** | Displays stopwatch. |
 
 > **NOTE:** This Markdown table was generated by [MarkdownTableMaker for Google Sheets][mtm].
 
@@ -316,7 +315,7 @@ Working towards a more complete list of Siri voice commands
 |  **Search WBUR podcasts.** | Returns search results of WBUR podcasts in Podcast App. |
 |  **Search Vox Media podcasts.** | Returns search results of Vox Media podcasts in Podcast App. |
 |  **Search Vergecast podcasts.** | Returns search results of Vergecast podcasts in Podcast App. |
-|  **Search Leo Laporte podcasts.** | Returns search results of Leo Laporte podcasts in Podcast App. 
+|  **Search Leo Laporte podcasts.** | Returns search results of Leo Laporte podcasts in Podcast App.
 |  **Play Apple Keynote podcast.** | Plays latest Apple Keynotes podcast episode. |
 |  **Play Pivot podcast.** | Plays the latest Pivot podcast episode in Podcast App. |
 |  **Play the latest Pivot podcast.** | Plays the last available podcast in feed. |
@@ -694,6 +693,8 @@ Working towards a more complete list of Siri voice commands
 
 
 [mtm]: https://gsuite.google.com/marketplace/app/markdowntablemaker/46507245362
+
+
 
 [page_wallet_siri_commands]: #wallet-siri-commands
 [page_web_and_youtube_search_siri_commands]: #web-and-youtube-search-siri-commands
