@@ -1,10 +1,20 @@
 # heysiri
 Complete list of Siri commands, updated April 2020.
 
+## Overview
+
++ Siri commands are tested in iOS 13.4.1 or later.
++ Siri commands are tested in iPadOS 13.4.1 or later.
++ Works well with AirPods or hands-free device.
++ Knowing more Siri commands will allow you to do more in hands-free mode.
++ Hands-free "hey siri" wake word helps you avoid contact with germs on surfaces.
++ Some commands require pre-installed apps developed by Apple.
++ Silent Mode switch must be off for audio responses.
++ Audio responses are often prompted by commands that involve lists.
++ Requires Internet connection.
 
 # Table of Contents
 
-   + [Overview][page_overview]
    + [Wallet Siri Commands][page_wallet]
    + [Web and YouTube Search Siri Commands][page_web]
    + [More Phone and Notifications Siri Commands][page_more]
@@ -37,19 +47,6 @@ Complete list of Siri commands, updated April 2020.
    + [Screen Brightness Settings Siri Commands][page_screen]
    + [General Siri Commands][page_general]
    + [Sports Siri Commands][page_sports]
-
-## Overview
-
-+ Siri commands are tested in iOS 13.4.1 or later.
-+ Siri commands are tested in iPadOS 13.4.1 or later.
-+ Works well with AirPods or hands-free device.
-+ Knowing more Siri commands will allow you to do more in hands-free mode.
-+ Hands-free "hey siri" wake word helps you avoid contact with germs on surfaces.
-+ Some commands require pre-installed apps developed by Apple.
-+ Silent Mode switch must be off for audio responses.
-+ Audio responses are often prompted by commands that involve lists.
-+ Requires Internet connection.
-
 
 
 ## Wallet Siri Commands
