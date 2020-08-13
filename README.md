@@ -680,8 +680,6 @@
 |  **Starting lineup for Pittsburg Penguins.** | Returns the starting lineup for the Pittsburg Penguins. |
 |  **Starting lineup for New York Yankees.** | Returns the starting lineup for the New York Yankees. |
 |  **Medal count.** | Returns the medal count for the most recent Olympic games. |
-
-
 |  **Super Bowl champions.** | Returns the name of the reigning Super Bowl champions. |
 |  **Super Bowl score.** | Returns the name of the reigning Super Bowl champions. |
 |  **Cleveland Browns record.** | Returns the current win-loss record of the Cleveland Browns. |
