@@ -3,8 +3,8 @@ Complete list of Siri commands, updated April 2020.
 
 ## Overview
 
-+ Siri commands are tested in iOS 13.4.1 or later.
-+ Siri commands are tested in iPadOS 13.4.1 or later.
++ Siri commands are tested in iOS 13.6.1 or later.
++ Siri commands are tested in iPadOS 13.6.1 or later.
 + Works well with AirPods or hands-free device.
 + Knowing more Siri commands will allow you to do more in hands-free mode.
 + Hands-free "hey siri" wake word helps you avoid contact with germs on surfaces.
